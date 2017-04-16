@@ -5,8 +5,7 @@ description: This is only other blog of a Enthusiastic programmer
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Will Developer
-user_description: <p>¡Hola!</p> <p>Si estas aca en busca de temas relacionados con Servers, Hacks, Lenguajes de programacion y mas…</p> <p>Has llegado al sitio indicado.</p>
+username: Will Developer 
 user_title: Software Developer
 email: thewillfap@gmail.com
 twitter_username: Unthinkable_Man
