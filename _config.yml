@@ -14,6 +14,6 @@ gplus_username: william-arevalo-rodriguez-b86b34144
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-98210758-2"
 
 exclude: ['package.json', 'src' , 'node_modules']
