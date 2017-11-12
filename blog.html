@@ -10,9 +10,13 @@ title: Blog Will Arevalo
       <div class="blog-post spacing">
         <h3><a href=".{{ post.url }}">{{ post.title }}</a></h3>
         <p class="summary">
-          {{ post.category }}
-          <span class="small u-pull-right">
-            {{ post.date | date: '%B %d, %Y' }}
+            <small>
+                {{ post.category }}
+            </small>
+          <span class="u-pull-right">
+              <small>
+                {{ post.date | date: '%B %d, %Y' }}
+              </small>
           </span>
         </p>
         {{ post.excerpt }}
