@@ -5,7 +5,7 @@ layout: blog
   <h2 class="spacing">{{ page.title }}</h2>
 
   <div class="blog-post spacing">
-    <p class="summary">{{ page.category }}<span class="small u-pull-right">{{ page.date | date: '%B %d, %Y' }}</span></p>
+    <p class="summary"><small>{{ page.category }}</small><span class="small u-pull-right"><small>{{ page.date | date: '%B %d, %Y' }}</small></span></p>
     {{ content }}
   </div>
 </div>
