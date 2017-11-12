@@ -9,4 +9,4 @@ category: Information
 Hola esto es una prueba
 ```
 
-![datasaurus](https://raw.githubusercontent.com/WillArevalo/Curso-de-Machine-Learning-Aplicado-con-Python/master/assets/datasaurus.png)
+<img class="u-full-width" src="https://raw.githubusercontent.com/WillArevalo/Curso-de-Machine-Learning-Aplicado-con-Python/master/assets/datasaurus.png" alt="datassaurus">
