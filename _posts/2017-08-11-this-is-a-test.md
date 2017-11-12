@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: this is a test
 category: Information
 ---
