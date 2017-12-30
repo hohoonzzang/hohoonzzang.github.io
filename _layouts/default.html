@@ -15,22 +15,19 @@
             var x = document.getElementById("site-desc");
             var y = 0;
             setInterval(() => {
-                if (y == 0){
-                    x.innerHTML = "Fronted Developer";
-                    y++;
-                }
-                else if(y == 1){
-                    x.innerHTML = "Backend Developer";
-                    y++;
-                }
-                else if(y == 2){
-                    x.innerHTML = "Passionate Data Science";
-                    y++;
-                }
-                else if(y == 3){
-                    x.innerHTML = "Full-Stack Developer";
-                    y = 0;
-                }
+                y++;
             }, 4000)
+            if (y == 0){
+                    x.innerHTML = "Fronted Developer";
+            }
+            else if(y == 1){
+                x.innerHTML = "Backend Developer";
+            }
+            else if(y == 2){
+                x.innerHTML = "Passionate Data Science";
+            }
+            else if(y == 3){
+                x.innerHTML = "Full-Stack Developer";
+            }
       </script>
   </body>
