@@ -11,4 +11,10 @@
       </section>
         {{ content }}
       {% include footer.html %}
+      <script>
+            var x = document.getElementById("site-desc");
+            setInterval(() => {
+                x.innerHTML = "Personal Blog"
+            }, 2000)
+      </script>
   </body>
