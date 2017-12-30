@@ -13,8 +13,20 @@
       {% include footer.html %}
       <script>
             var x = document.getElementById("site-desc");
+            var y = 0;
             setInterval(() => {
-                x.innerHTML = "Personal Blog"
-            }, 2000)
+                if (y = 0){
+                    x.innerHTML = "Fronted Developer";
+                    y++;
+                }
+                else if(y = 1){
+                    x.innerHTML = "Backend Developer";
+                    y++;
+                }
+                else if{
+                    x.innerHTML = "Passionate Data Science";
+                    y = 0;
+                }
+            }, 4000)
       </script>
   </body>
