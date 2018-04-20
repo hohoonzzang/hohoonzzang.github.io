@@ -59,7 +59,7 @@ Una vez que el modelo se entrena con ejemplos etiquetados, ese modelo se usa par
 Un modelo define la relaci&oacute;n entre los atributos y la etiqueta. Por ejemplo, un modelo de detecci&oacute;n de spam podr&iacute;a asociar de manera muy definida determinados atributos con "es spam". Destaquemos dos fases en el ciclo de un modelo:
 
 * **Entrenamiento**&nbsp;significa crear o aprender el modelo. Es decir, le muestras ejemplos etiquetados al modelo y permites que este aprenda gradualmente las relaciones entre los atributos y la etiqueta.
-* **Inferencia**&nbsp;significa aplicar el modelo entrenado a ejemplos sin etiqueta. Es decir, usas el modelo entrenado para realizar predicciones &uacute;tiles (y'). Por ejemplo, durante la inferencia, puedes predecir medianHouseValue para nuevos ejemplos sin etiqueta.
+* **Inferencia**&nbsp;significa aplicar el modelo entrenado a ejemplos sin etiqueta. Es decir, usas el modelo entrenado para realizar predicciones &uacute;tiles (`y'`). Por ejemplo, durante la inferencia, puedes predecir `medianHouseValue` para nuevos ejemplos sin etiqueta.
 
 ## Regresi&oacute;n frente a clasificaci&oacute;n
 
