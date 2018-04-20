@@ -16,13 +16,13 @@ Exploremos la terminolog&iacute;a b&aacute;sica del aprendizaje autom&aacute;tic
 
 ## Etiquetas
 
-Una&nbsp;**etiqueta**&nbsp;es el valor que estamos prediciendo, es decir, la variable y&nbsp;en la regresi&oacute;n lineal simple. La etiqueta podr&iacute;a ser el precio futuro del trigo, el tipo de animal que se muestra en una imagen, el significado de un clip de audio o simplemente cualquier cosa.
+Una&nbsp;**etiqueta**&nbsp;es el valor que estamos prediciendo, es decir, la variable y en la regresi&oacute;n lineal simple. La etiqueta podr&iacute;a ser el precio futuro del trigo, el tipo de animal que se muestra en una imagen, el significado de un clip de audio o simplemente cualquier cosa.
 
 ## Atributos
 
-Un&nbsp;**atributo**&nbsp;es una variable de entrada, es decir, la variable x&nbsp;en la regresi&oacute;n lineal simple. Un proyecto de aprendizaje autom&aacute;tico simple podr&iacute;a usar un solo atributo, mientras que otro m&aacute;s sofisticado podr&iacute;a usar millones de atributos, especificados como:
+Un&nbsp;**atributo**&nbsp;es una variable de entrada, es decir, la variable x en la regresi&oacute;n lineal simple. Un proyecto de aprendizaje autom&aacute;tico simple podr&iacute;a usar un solo atributo, mientras que otro m&aacute;s sofisticado podr&iacute;a usar millones de atributos, especificados como:
 
-${x1,x2,...xN}$
+${x1,x2,…xN}$
 
 En el ejemplo del detector de spam, los atributos podr&iacute;an incluir los siguientes:
 
@@ -33,12 +33,12 @@ En el ejemplo del detector de spam, los atributos podr&iacute;an incluir los sig
 
 ## Ejemplos
 
-Un ejemplo es una instancia de datos en particular, x. (La x&nbsp;se coloca en negrita para indicar que es un vector). Los ejemplos se dividen en dos categor&iacute;as:
+Un ejemplo es una instancia de datos en particular, **x**. (La **x**&nbsp;se coloca en negrita para indicar que es un vector). Los ejemplos se dividen en dos categor&iacute;as:
 
 * ejemplos etiquetados
 * ejemplos sin etiqueta
 
-Un ejemplo etiquetado incluye tanto atributos como la etiqueta. Esto significa lo siguiente:
+Un **ejemplo etiquetado** incluye tanto atributos como la etiqueta. Esto significa lo siguiente:
 
 &nbsp; `labeled examples: {features, label}: (x, y)`
 
