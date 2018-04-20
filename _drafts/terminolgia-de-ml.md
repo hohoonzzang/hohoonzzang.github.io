@@ -22,7 +22,7 @@ Una&nbsp;**etiqueta**&nbsp;es el valor que estamos prediciendo, es decir, la var
 
 Un&nbsp;**atributo**&nbsp;es una variable de entrada, es decir, la variable x en la regresi&oacute;n lineal simple. Un proyecto de aprendizaje autom&aacute;tico simple podr&iacute;a usar un solo atributo, mientras que otro m&aacute;s sofisticado podr&iacute;a usar millones de atributos, especificados como:
 
-\{x1,x2,…x_{N}_}
+{x1,x2,… \( x_{N} \)
 
 En el ejemplo del detector de spam, los atributos podr&iacute;an incluir los siguientes:
 
