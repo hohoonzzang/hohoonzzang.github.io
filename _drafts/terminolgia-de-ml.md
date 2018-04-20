@@ -1,5 +1,5 @@
 ---
 layout: post
 title: Terminolgia de ML
-category: Information
+category: Machine Learning
 ---
