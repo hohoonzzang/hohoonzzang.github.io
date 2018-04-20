@@ -22,7 +22,7 @@ Una&nbsp;**etiqueta**&nbsp;es el valor que estamos prediciendo, es decir, la var
 
 Un&nbsp;**atributo**&nbsp;es una variable de entrada, es decir, la variable x&nbsp;en la regresi&oacute;n lineal simple. Un proyecto de aprendizaje autom&aacute;tico simple podr&iacute;a usar un solo atributo, mientras que otro m&aacute;s sofisticado podr&iacute;a usar millones de atributos, especificados como:
 
-{x1,x2,...xN}
+${x1,x2,...xN}$
 
 En el ejemplo del detector de spam, los atributos podr&iacute;an incluir los siguientes:
 
@@ -40,7 +40,7 @@ Un ejemplo es una instancia de datos en particular, x. (La x&nbsp;se coloca en n
 
 Un ejemplo etiquetado incluye tanto atributos como la etiqueta. Esto significa lo siguiente:
 
-&nbsp; labeled examples: {features, label}: (x, y)
+&nbsp; `labeled examples: {features, label}: (x, y)`
 
 Los ejemplos etiquetados se usan para&nbsp;**entrenar**&nbsp;el modelo. En nuestro ejemplo del detector de spam, los ejemplos etiquetados ser&iacute;an los correos electr&oacute;nicos individuales que los usuarios marcaron expl&iacute;citamente como "es spam" o "no es spam".
 
@@ -50,7 +50,7 @@ Por ejemplo, en la siguiente tabla se muestran 5 ejemplos etiquetados de un conj
 
 Un**&nbsp;ejemplo sin etiqueta**&nbsp;contiene atributos, pero no la etiqueta. Esto significa lo siguiente:
 
-&nbsp; unlabeled examples: {features, ?}: (x, ?)
+&nbsp; `unlabeled examples: {features, ?}: (x, ?)`
 
 Una vez que el modelo se entrena con ejemplos etiquetados, ese modelo se usa para predecir la etiqueta en ejemplos sin etiqueta. En el detector de spam, los ejemplos sin etiqueta son correos electr&oacute;nicos nuevos que las personas todav&iacute;a no han etiquetado.
 
