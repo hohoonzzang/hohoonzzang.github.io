@@ -46,7 +46,7 @@ Los ejemplos etiquetados se usan para&nbsp;**entrenar**&nbsp;el modelo. En nuest
 
 Por ejemplo, en la siguiente tabla se muestran 5 ejemplos etiquetados de un conjunto de datos que contiene informaci&oacute;n sobre los precios de vivienda en California:
 
-![](/uploads/screenshot-2018-4-19-framing-key-ml-terminology-machine-learning-crash-course-google-developers.png)
+<img class="u-full-width" src="/uploads/screenshot-2018-4-19-framing-key-ml-terminology-machine-learning-crash-course-google-developers.png" alt="">
 
 Un**&nbsp;ejemplo sin etiqueta**&nbsp;contiene atributos, pero no la etiqueta. Esto significa lo siguiente:
 
