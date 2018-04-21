@@ -20,7 +20,7 @@ Ya que queremos no solo reducir la p&eacute;rdida en un solo ejemplo, sino que n
 
 <math xmlns="http://www.w3.org/1998/Math/MathML"> <semantics> <mrow> <mo>&sum;<!--base32-4undefined8j0-base32--></mo> <mtext>:Sumamos todos los ejemplos en el conjunto de entrenamiento.</mtext> </mrow> <annotation encoding="application/x-tex">\sum \text{:Sumamos todos los ejemplos en el conjunto de entrenamiento.}</annotation> </semantics> </math>
 
-<math xmlns="http://www.w3.org/1998/Math/MathML"> <semantics> <mrow> <mi>D</mi> <mtext>: A veces es &uacute;til promediar todos los ejemplos,</mtext> </mrow> <annotation encoding="application/x-tex">D \text{: A veces es &uacute;til promediar todos los ejemplos,}</annotation> </semantics> </math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"> <semantics> <mrow> <mi>D</mi> <mtext>: A veces es &uacute;til promediar todos los ejemplos,</mtext> </mrow> <annotation encoding="application/x-tex">D \text{: A veces es &uacute;til promediar todos los ejemplos}</annotation> </semantics> </math>
 
 &nbsp;
 
