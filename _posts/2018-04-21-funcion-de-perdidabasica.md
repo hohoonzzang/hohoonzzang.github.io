@@ -68,4 +68,14 @@ Ya que queremos no solo reducir la p&eacute;rdida en un solo ejemplo, sino que n
   </semantics>
 </math>
 
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow>
+      <mo>&#x2211;<!-- ∑ --></mo>
+      <mtext>:Sumamos todos los ejemplos en el conjunto de entrenamiento.</mtext>
+    </mrow>
+    <annotation encoding="application/x-tex">\sum \text{:Sumamos todos los ejemplos en el conjunto de entrenamiento.}</annotation>
+  </semantics>
+</math>
+
 &nbsp;
