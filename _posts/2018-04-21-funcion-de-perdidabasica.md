@@ -15,3 +15,5 @@ La p&eacute;rdida&nbsp;**L2**&nbsp;para un ejemplo determinado tambi&eacute;n se
 Ya que queremos no solo reducir la p&eacute;rdida en un solo ejemplo, sino que nos interesa reducir la perdida en todo nuestro conjunto de datos:
 
 p&eacute;rdida N2 = \\sum\_{(x,y)\\in D} (y - predicci&oacute;n(x))^2
+
+&nbsp;
