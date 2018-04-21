@@ -78,4 +78,14 @@ Ya que queremos no solo reducir la p&eacute;rdida en un solo ejemplo, sino que n
   </semantics>
 </math>
 
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow>
+      <mi>D</mi>
+      <mtext>: A veces es &#xFA;til promediar todos los ejemplos,</mtext>
+    </mrow>
+    <annotation encoding="application/x-tex">D \text{: A veces es útil promediar todos los ejemplos,}</annotation>
+  </semantics>
+</math>
+
 &nbsp;
