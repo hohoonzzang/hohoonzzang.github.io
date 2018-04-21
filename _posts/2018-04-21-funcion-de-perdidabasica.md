@@ -67,6 +67,7 @@ Ya que queremos no solo reducir la p&eacute;rdida en un solo ejemplo, sino que n
     <annotation encoding="application/x-tex">pérdida N2 = \sum_{(x,y)\in D} (y - predicción(x))^2</annotation>
   </semantics>
 </math>
+<br>  
 
 <math xmlns="http://www.w3.org/1998/Math/MathML">
   <semantics>
