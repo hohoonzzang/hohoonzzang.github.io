@@ -8,6 +8,7 @@ layout: blog
     <p class="summary"><small>{{ page.category }}</small><span class="small u-pull-right"><small>{{ page.date | date: '%B %d, %Y' }}</small></span></p>
     {{ content }}
   </div>
+  <hr class="hr-text" data-content="END">
   <div class="PageNavigation">
       {% if page.previous.url %}
         <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
