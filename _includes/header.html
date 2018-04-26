@@ -10,7 +10,7 @@
          <a aria-label="My Linkedin" target="_blank" href="https://linkedin.com/in/{{site.gplus_username}}"><i class="icon fa fa-linkedin" aria-hidden="true"></i></a>
          <a aria-label="My Github" target="_blank" href="https://github.com/{{site.github_username}}"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>
        </div>
-       {% if site.baseurl == null %}
+       {% if page.path == null %}
             <a class="link" href="{{ "#about" | prepend: site.baseurl }}" data-scroll>About Me</a>
        {% else %}
             <a class="link" href="{{ "/#aboutadito" | prepend: site.url }}">Aboutadito Meo</a>
