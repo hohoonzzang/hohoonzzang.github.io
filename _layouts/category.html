@@ -15,11 +15,13 @@ layout: page
       <br>
       <br>
       <section id="blog">
-        {% for post in site.categories[page.category] %}
-            <a href="{{ post.url | absolute_url }}">
-              {{ post.title }}
-            </a>
-        {% endfor %}    
+          <div class="container">
+            {% for post in site.categories[page.category] %}
+                <a href="{{ post.url | absolute_url }}">
+                  {{ post.title }}
+                </a>
+            {% endfor %}    
+            </div>
         {% include pie.html %}
       </section>   
       {% include footer.html %}
