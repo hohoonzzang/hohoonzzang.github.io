@@ -5,7 +5,7 @@ layout: blog
   <h2 class="spacing">{{ page.title }}</h2>
 
   <div class="blog-post spacing">
-    <p class="summary"><small><a href="{{page.category | absolute_url }}">{{ page.category }}</a></small><span class="small u-pull-right"><small>{{ page.date | date: '%B %d, %Y' }}</small></span></p>
+    <p class="summary"><small><a href="{{ "/category/"+ page.category | absolute_url }}">{{ page.category }}</a></small><span class="small u-pull-right"><small>{{ page.date | date: '%B %d, %Y' }}</small></span></p>
     {{ content }}
   </div>
   <hr class="hr-text" data-content="END">
