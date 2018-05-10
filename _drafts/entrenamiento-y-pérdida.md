@@ -23,7 +23,6 @@ P&eacute;rdida al cuadrado: Una funci&oacute;n popular de p&eacute;rdida
 
 Los modelos de regresi&oacute;n lineal que se examinan aqu&iacute; usan una funci&oacute;n de p&eacute;rdida llamada p&eacute;rdida al cuadrado(tambi&eacute;n conocida como p&eacute;rdida L2). A continuaci&oacute;n, se muestra la p&eacute;rdida al cuadrado para un &uacute;nico ejemplo:
 
-&nbsp;
 
 ```
   = the square of the difference between the label and the prediction
