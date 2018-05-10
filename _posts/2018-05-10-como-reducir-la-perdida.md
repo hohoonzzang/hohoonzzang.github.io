@@ -17,3 +17,21 @@ Los llamamos pasos de gradiente (aunque en realidad son pasos de gradiente negat
 Esta estrategia de optimizaci&oacute;n se denomina descenso de gradientes.
 
 Ejercicios que te ayudaran a contextualizar mas la perdida y como reducirla [AQU&Iacute;](https://developers.google.com/machine-learning/crash-course/fitter/graph)
+
+##### Inicializacion de pesos
+
+![](/uploads/screenshot-2018-5-10-reducción-de-la-pérdida-curso-intensivo-de-aprendizaje-automático-google-developers.png)
+
+##### SGD y descenso de gradientes de minilote
+
+La gradiente se podr&iacute;a calcular en todo el conjunto de datos en cada paso, pero esto es innecesario:
+
+El c&aacute;lculo de la gradiente en peque&ntilde;as muestras de datos funciona bien.
+
+En cada paso, se debe obtener una nueva muestra al azar.
+
+**Descenso de gradiente estoc&aacute;stico**: Se toma un ejemplo por vez.
+
+**Descenso de gradientes de minilote**: Se usan lotes de 10 a 1000.
+
+La p&eacute;rdida y las gradientes se promedian en el lote.
