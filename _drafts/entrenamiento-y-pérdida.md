@@ -25,6 +25,12 @@ Los modelos de regresi&oacute;n lineal que se examinan aqu&iacute; usan una func
 
 &nbsp;
 
+```
+  = the square of the difference between the label and the prediction
+  = (observation - prediction(x))2
+  = (y - y')2
+```
+
 El error cuadr&aacute;tico medio (ECM) es el promedio de la p&eacute;rdida al cuadrado de cada ejemplo. Para calcular el ECM, sumamos todas las p&eacute;rdidas al cuadrado de los ejemplos individuales y, luego, lo dividimos por la cantidad de ejemplos:
 
 ![](/uploads/screenshot-2018-5-10-estudio-detallado-del-aa-entrenamiento-y-pérdida-curso-intensivo-de-aprendizaje-automático-google-deve---1.png)
