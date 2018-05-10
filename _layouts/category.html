@@ -21,7 +21,7 @@ layout: page
                   <h2 class="spacing">Blog | {{page.category}}</h2>
             {% for post in site.categories[page.category] %}
                 <div class="blog-post spacing">
-                    <h3><a class="decorate" href="{{ post.url }}" style="text-decoration: none;">{{ post.title | capitalize }}</a></h3>
+                    <h3><a class="decorate" href="{{ post.url | absolute_url }}" style="text-decoration: none;">{{ post.title | capitalize }}</a></h3>
                     <p class="summary">
                         <small>
                             <a class="decorate" href="{{ absolute_url }}/category/{{page.category}}">{{ page.category }}</a>
