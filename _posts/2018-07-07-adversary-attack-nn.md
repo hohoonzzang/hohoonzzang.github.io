@@ -16,7 +16,7 @@ Heee esto esta denso y que tal si agregamos imagenes? Veamos que tal te va contr
 
 Esto es un gato? Claro esto es un gato y que tierno esta.
 
-![](/uploads/hacked.png)
+![](/uploads/hacked.png "LemonCat? Awww! WTF")
 
 Quien diria el mismo gato? Pues no, esta vez no, segun la IA esta segunda imagen es un limon, Si se&ntilde;ores un limon! Sigue siendo tierno como limon.
 
@@ -24,7 +24,7 @@ Que no me crees? Mira los resultados
 
 ![](/uploads/screenshot-2018-07-06-google-colaboratory1.png)
 
-Estos de arriba son los resultados de la prediccion del primer gatito, podemos ver que tiene una distribucion de probabilidades, las cuales se encabezan por tiger\_cat, tabby(raza de gato), egyptian\_cat, entre otros y aun asi el primer resultado no tiene gran probabilidad de ser dado que hay mas categorias con las que coincide...
+Estos de arriba son los resultados de la prediccion del primer gatito, podemos ver que tiene una distribucion de probabilidades, las cuales se encabezan por tiger\_cat, tabby(raza de gato), egyptian\_cat, entre otros y aun asi el primer resultado no tiene gran probabilidad de ser, dado que hay mas categorias con las que coincide…
 
 Ahora miremos el "Limon"
 
@@ -38,6 +38,6 @@ Ya! Quieres saber mas?
 
 Vamos al codigo.
 
-En esta [URL](https://colab.research.google.com/drive/1Zy5Lg1EicoVu-jcUBUZAkK8Phfp11p_k){: target="_blank"} esta todo adelante, Diviertete
+En esta [URL](https://colab.research.google.com/drive/1Zy5Lg1EicoVu-jcUBUZAkK8Phfp11p_k){: target="_blank"} esta todo, adelante, Diviertete
 
 &nbsp;
