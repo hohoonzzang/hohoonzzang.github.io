@@ -1,6 +1,6 @@
 ---
 layout: post
-title: this is a test
+title: this is a test | Blog
 category: Information
 ---
 
