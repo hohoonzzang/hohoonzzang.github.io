@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terminologia de ML
+title: Terminologia de ML | Blog
 category: Machine Learning
 ---
 
